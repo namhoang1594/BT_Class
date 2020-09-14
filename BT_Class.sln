@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lop_HCN", "BT_Class\Lop_HCN.csproj", "{81D8D4D3-62B8-4708-8A57-4A23AAC5CBA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal\Animal.csproj", "{12946866-3626-4477-882C-ED26FE7D9BEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animal", "Animal\Animal.csproj", "{12946866-3626-4477-882C-ED26FE7D9BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lop_QuadraticEquation", "Lop_QuadraticEquation\Lop_QuadraticEquation.csproj", "{9C7B0483-853B-4A64-92D6-5838B82DCE12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{12946866-3626-4477-882C-ED26FE7D9BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12946866-3626-4477-882C-ED26FE7D9BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12946866-3626-4477-882C-ED26FE7D9BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7B0483-853B-4A64-92D6-5838B82DCE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7B0483-853B-4A64-92D6-5838B82DCE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7B0483-853B-4A64-92D6-5838B82DCE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7B0483-853B-4A64-92D6-5838B82DCE12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
