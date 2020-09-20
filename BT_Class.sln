@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lop_HCN", "BT_Class\Lop_HCN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animal", "Animal\Animal.csproj", "{12946866-3626-4477-882C-ED26FE7D9BEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lop_QuadraticEquation", "Lop_QuadraticEquation\Lop_QuadraticEquation.csproj", "{9C7B0483-853B-4A64-92D6-5838B82DCE12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lop_QuadraticEquation", "Lop_QuadraticEquation\Lop_QuadraticEquation.csproj", "{9C7B0483-853B-4A64-92D6-5838B82DCE12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\StopWatch.csproj", "{47CF79AA-453B-40EB-959E-DD7736AE3FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fan", "Fan\Fan.csproj", "{5488FD44-C173-42F1-9C73-D825D9D526E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{9C7B0483-853B-4A64-92D6-5838B82DCE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C7B0483-853B-4A64-92D6-5838B82DCE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C7B0483-853B-4A64-92D6-5838B82DCE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47CF79AA-453B-40EB-959E-DD7736AE3FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CF79AA-453B-40EB-959E-DD7736AE3FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CF79AA-453B-40EB-959E-DD7736AE3FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CF79AA-453B-40EB-959E-DD7736AE3FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5488FD44-C173-42F1-9C73-D825D9D526E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5488FD44-C173-42F1-9C73-D825D9D526E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5488FD44-C173-42F1-9C73-D825D9D526E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5488FD44-C173-42F1-9C73-D825D9D526E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
